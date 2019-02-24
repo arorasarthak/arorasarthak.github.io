@@ -10,7 +10,6 @@ Beside my passion for robotics, I spend my time in photography and making music.
 
 *Here are some of my graduate projects and unpublished manuscripts*
 
-
 #### Deep Electromyogram Gesture Recognition                                  
 ```html
 Python, sklearn, TensorFlow, MATLAB
