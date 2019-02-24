@@ -18,7 +18,7 @@ Python, sklearn, TensorFlow, MATLAB
 >The EMG time series data was subjected to several preprocessing and filtering techniques such as the application of FFT, 
 >Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. 
 >The resulting system gesture recognition system was able to achieve 95% test accuracy.
-
+***
 
 #### Indoor Navigation Ackerman Robot
 ```html
