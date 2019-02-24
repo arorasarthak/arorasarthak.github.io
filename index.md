@@ -6,7 +6,7 @@ I am a Graduate Student employed as a Teaching Assistant at [KGCOE, RIT](https:/
 My major is Electrical Engineering with a specialization in Robotics. Most my time is spent working on my
 graduate research in Human Robot Interaction and assisting other graduate and undergraduate students in their courses.
 
-Besides my passion for robotics, I spend my time in photography and making music.
+Beside my passion for robotics, I spend my time in photography and making music.
 
 <!--
 *Here are some of my graduate projects and unpublished manuscripts:*
