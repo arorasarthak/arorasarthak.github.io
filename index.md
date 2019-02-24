@@ -26,9 +26,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
+
 [Link](url) and ![Image](src)
 ```
+{  % youtube PULkWGHeIQQ %  }
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
