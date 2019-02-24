@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-{ % youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" % }
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
