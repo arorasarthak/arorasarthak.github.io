@@ -9,7 +9,7 @@ graduate research in Human Robot Interaction and assisting other graduate and un
 Beside my passion for robotics, I spend my time in photography and making music.
 
 *Here are some of my graduate projects and unpublished manuscripts*
-
++
 #### Deep Electromyogram Gesture Recognition                                  
 ```html
 Python, sklearn, TensorFlow, MATLAB
@@ -21,7 +21,7 @@ Python, sklearn, TensorFlow, MATLAB
 
 
 
-
++
 #### Indoor Navigation Ackerman Robot
 ```html
 Ubuntu Core, ROS, Python, C++
