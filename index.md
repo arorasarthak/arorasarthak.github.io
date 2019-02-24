@@ -4,9 +4,9 @@
 
 I am a Graduate Student employed as a Teaching Assistant at the [Kate Gleason College of Engineering @ RIT](https://www.rit.edu/kgcoe/). 
 My major is Electrical Engineering with a specialization in Robotics. Most my time is spent working on my
-graduate research in Human Robot Interaction and assisting other graduate and undergraduate students in Robotics.
+graduate research in Human Robot Interaction and assisting other graduate and undergraduate students in their courses.
 
-Besides my passion for Robotics, I spend my time in photography and making music.
+Besides my passion for robotics, I spend my time in photography and making music.
 
 <!--
 *Here are some of my graduate projects and unpublished manuscripts:*
