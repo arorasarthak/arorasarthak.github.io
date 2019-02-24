@@ -2,7 +2,7 @@
 
 #### Hi there!
 
-I am a Graduate Student employed as a Teaching Assistant at the [Kate Gleason College of Engineering @ RIT](https://www.rit.edu/kgcoe/). 
+I am a Graduate Student employed as a Teaching Assistant at [KGCOE, RIT](https://www.rit.edu/kgcoe/). 
 My major is Electrical Engineering with a specialization in Robotics. Most my time is spent working on my
 graduate research in Human Robot Interaction and assisting other graduate and undergraduate students in their courses.
 
