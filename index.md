@@ -8,8 +8,8 @@ graduate thesis in Human Robot Interaction and assisting other graduate and unde
 
 Besides my passion for Robotics, I spend my time in [photography](https://www.instagram.com/acrossthedelta/) and [making music](https://soundcloud.com/auralrush).
 
-
-##### Here are some of my Graduate Projects and Unpublished Manuscripts:
+Here are some of my Graduate Projects and Unpublished Manuscripts:
+======
 
 #### Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
