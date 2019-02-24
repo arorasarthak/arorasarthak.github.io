@@ -8,13 +8,15 @@ graduate research in Human Robot Interaction and assisting other graduate and un
 
 Beside my passion for robotics, I spend my time in photography and making music.
 
+*Here are some of my graduate projects and unpublished manuscripts*
+
+#### Deep Electromyogram Gesture Recognition
+##### {Python, sklearn, TensorFlow, MATLAB}
+```markdown
+Performed real time gesture recognition of EMG signal data using Deep Neural Nets and Support Vector
+Machine. The EMG time series data was subjected to several preprocessing and filtering techniques such as the application of FFT, Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. The resulting system gesture recognition system was able to achieve 95\% test accuracy.
+```
 <!--
-*Here are some of my graduate projects and unpublished manuscripts:*
-
-
-
-#### Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
@@ -83,7 +85,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   \bodytext
   {An exploratory data analysis project was done as a part of graduate coursework in Random Signals and Noise.}
 \vspace{10pt}
-  {\headedsubsection{SGC -â Pollux -â I}  \textsc{Project \& Systems Management}}
+  {\headedsubsection{SGC-Pollux-I}  \textsc{Project \& Systems Management}}
     \bodytext
   {Designed a project plan to design, develop and deliver a food processing system in the International Space Station. Acted as the Team Leader \& Project Manager; lead the team to achieve the best project in the class. Implemented the complete project plan in OmniPlan by designing the WBS, WBS Dictionary, Project Schedule and the Budget. }
 
