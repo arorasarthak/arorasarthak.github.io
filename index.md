@@ -21,6 +21,7 @@ Python, sklearn, TensorFlow, MATLAB
 
 
 #### Indoor Navigation Ackerman Robot
+[Video](https://www.youtube.com/watch?v=ohnHsEWqdAU)
 ```html
 Ubuntu Core, ROS, Python, C++
 ```
