@@ -13,7 +13,7 @@ The resulting system gesture recognition system was able to achieve 95% test acc
 &nbsp;
 
 ### Indoor Navigation Ackerman Robot
-```html
+```markdown
 ##### Ubuntu Core, ROS, Python, C++
 ```
 An autonomous ackermann steering robot was designed and implemented using a 1:10 RC car chassis, Arduino Mega,
