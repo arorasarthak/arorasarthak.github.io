@@ -52,4 +52,5 @@ The resulting system achieved a test accuracy of 98% by beating the previous sta
 MATLAB
 ```
 An exploratory data analysis project was done as a part of graduate coursework in Random Signals and Noise.
+
 [Report](https://drive.google.com/open?id=1Qw-WtVVEkUPZthruNtmrdPY4QebIL1b6)
