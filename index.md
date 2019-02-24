@@ -20,7 +20,7 @@ Python, sklearn, TensorFlow, MATLAB
 >Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. 
 >The resulting system gesture recognition system was able to achieve 95% test accuracy.
 # 
-
+# 
 #### Indoor Navigation Ackerman Robot
 ```html
 Ubuntu Core, ROS, Python, C++
@@ -30,7 +30,7 @@ Ubuntu Core, ROS, Python, C++
 >Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
 >adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF. 
 # 
-
+# 
 #### Steering Angle Prediction using Deep Imitation Learning
 ```html
 Python, TensorFlow, Keras
@@ -39,7 +39,7 @@ Python, TensorFlow, Keras
 >Different state of the art architectures were used to benchmark against NVIDIA's end-to-end 
 >architecture in terms model complexity & accuracy.
 # 
-
+# 
 #### Deep Attention based Character Recognition using Spatial Transformers Nets
 ```html
 Python, TensorFlow
@@ -48,7 +48,7 @@ Python, TensorFlow
 >A new approach was proposed to perform character recognition on script characters from the Indian subcontinent. 
 >The resulting system achieved a test accuracy of 98% by beating the previous state of the art method.
 # 
-
+# 
 <!--
 ```markdown
 Syntax highlighted code block
