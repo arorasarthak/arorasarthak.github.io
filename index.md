@@ -6,7 +6,7 @@ I am a Graduate Student employed as a Teaching Assistant at the Kate Gleason Col
 My major is Electrical Engineering with a specialization in Robotics. Most my time is spent working on my
 graduate research in Human Robot Interaction and assisting other graduate and undergraduate students in Robotics.
 
-Besides my passion for Robotics, I spend my time in photography [:camera:](https://www.instagram.com/acrossthedelta/) and making music [:musical_note:](https://soundcloud.com/auralrush).
+Besides my passion for Robotics, I spend my time in photography and making music.
 
 *Here are some of my graduate projects and unpublished manuscripts:*
 
