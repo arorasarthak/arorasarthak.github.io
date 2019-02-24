@@ -1,6 +1,12 @@
 theme: jekyll-theme-minimal
 title: Sarthak Arora
 description: Projects Page
+
+<a href="{{ post.description }}">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.date | date_to_string }}</p>
+</a>
+  
 logo: disp.jpg
 plugins:
   - jekyll-mentions
