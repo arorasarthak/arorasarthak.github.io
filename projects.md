@@ -43,3 +43,13 @@ Python, TensorFlow
 Compared the performance of 2D Convolutional Layers vs. Spatial Transformer Layers on Devanagari and Bengali Script Datasets.
 A new approach was proposed to perform character recognition on script characters from the Indian subcontinent. 
 The resulting system achieved a test accuracy of 98% by beating the previous state of the art method.
+
+
+&nbsp;
+
+### Exploration of Autocorrelation and Power Spectral Characteristics of a Low-Pass Random Process
+```markdown
+MATLAB
+```
+An exploratory data analysis project was done as a part of graduate coursework in Random Signals and Noise.
+[Report](https://drive.google.com/open?id=1Qw-WtVVEkUPZthruNtmrdPY4QebIL1b6)
