@@ -1,6 +1,6 @@
-## Hi there!
+### About Me
 
-Welcome to my projects page.
+#### Hi there!
 
 I am a Graduate Student employed as a Teaching Assistant at the Kate Gleason College of Engineering @ RIT. 
 My major is Electrical Engineering with a specialization in Robotics. Most my time is spent working on my
@@ -8,9 +8,10 @@ graduate research in Human Robot Interaction and assisting other graduate and un
 
 Besides my passion for Robotics, I spend my time in photography and making music.
 
+<!--
 *Here are some of my graduate projects and unpublished manuscripts:*
 
-<!--
+
 
 #### Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
