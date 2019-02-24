@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Projects
 
-You can use the [editor on GitHub](https://github.com/arorasarthak/arorasarthak.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there! Welcome to my projects page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Graduate Student employed as a Teaching Assistant at the Kate Gleason College of Engineering @ RIT. 
+My major is Electrical Engineering with a specialization in Robotics. Most my time is spent working on my
+graduate thesis in Human Robot Interaction and assisting other graduate and undergraduate students in Robotics.
+
+Besides my passion for Robotics, I spend my doing landscape photography and making music.
+
+
+Here are some of my Graduate Projects and Unpublished Manuscripts:
+
 
 ### Markdown
 
