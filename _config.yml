@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Sarthak Arora
-description: <p><a href ="https://www.instagram.com/acrossthedelta/"><img border="0" alt="instagram" src="instagram-symbol.png" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://soundcloud.com/auralrush"><img border="0" alt="soundcloud" src="soundcloud-logo.png" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://www.linkedin.com/in/arorasarthak"><img border="0" alt="linkedin" src="linkedin-logo.png" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://github.com/arorasarthak"><img border="0" alt="github" src="github-sign.png" width="16" height="16"></a></p> 
+description: &nbsp;&nbsp; <a href ="https://www.instagram.com/acrossthedelta/"><img border="0" alt="instagram" src="instagram-symbol.png" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://soundcloud.com/auralrush"><img border="0" alt="soundcloud" src="soundcloud-logo.png" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://www.linkedin.com/in/arorasarthak"><img border="0" alt="linkedin" src="linkedin-logo.png" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://github.com/arorasarthak"><img border="0" alt="github" src="github-sign.png" width="16" height="16"></a> &nbsp;&nbsp;  
  
 logo: disp.jpg
 plugins:
