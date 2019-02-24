@@ -19,7 +19,7 @@ The EMG time series data was subjected to several preprocessing and filtering te
 Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. 
 The resulting system gesture recognition system was able to achieve 95% test accuracy.
 
-*    *
+**
 
 ### Indoor Navigation Ackerman Robot
 [Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
