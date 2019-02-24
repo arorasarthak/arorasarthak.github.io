@@ -1,5 +1,5 @@
 ## My Projects
-&nbsp;
+
 ### Deep Electromyogram Gesture Recognition                                  
 ```markdown
 Python, sklearn, TensorFlow, MATLAB
