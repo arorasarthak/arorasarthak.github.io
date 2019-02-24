@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Sarthak Arora
-description: Project Page
+description: :camera:
 logo: disp.jpg
+plugins:
+  - jemoji
