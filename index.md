@@ -11,7 +11,6 @@ Beside my passion for robotics, I spend my time in photography and making music.
 *Here are some of my graduate projects and unpublished manuscripts*
 
 &nbsp;
-
 ### Deep Electromyogram Gesture Recognition                                  
 ```markdown
 Python, sklearn, TensorFlow, MATLAB
@@ -34,6 +33,9 @@ Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmappin
 Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
 adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF. 
 
+
+&nbsp;
+
 ### Steering Angle Prediction using Deep Imitation Learning
 ```markdown
 Python, TensorFlow, Keras
@@ -41,6 +43,9 @@ Python, TensorFlow, Keras
 Designed a steering angle control system using convolutional neural networks for autonomous driving. 
 Different state of the art architectures were used to benchmark against NVIDIA's end-to-end 
 architecture in terms model complexity & accuracy.
+
+
+&nbsp;
 
 ### Deep Attention based Character Recognition using Spatial Transformers Nets
 ```markdown
