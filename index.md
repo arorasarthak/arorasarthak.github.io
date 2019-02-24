@@ -9,7 +9,7 @@ graduate research in Human Robot Interaction and assisting other graduate and un
 Beside my passion for robotics, I spend my time in photography and making music.
 
 *Here are some of my graduate projects and unpublished manuscripts*
-***
+
 #### Deep Electromyogram Gesture Recognition                                  
 ```html
 Python, sklearn, TensorFlow, MATLAB
@@ -18,7 +18,9 @@ Python, sklearn, TensorFlow, MATLAB
 >The EMG time series data was subjected to several preprocessing and filtering techniques such as the application of FFT, 
 >Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. 
 >The resulting system gesture recognition system was able to achieve 95% test accuracy.
-***
+
+
+
 
 #### Indoor Navigation Ackerman Robot
 ```html
@@ -28,7 +30,7 @@ Ubuntu Core, ROS, Python, C++
 >Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmapping & hector mapping.
 >Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
 >adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF. 
-***
+
 
 #### Steering Angle Prediction using Deep Imitation Learning
 ```html
@@ -37,7 +39,7 @@ Python, TensorFlow, Keras
 >Designed a steering angle control system using convolutional neural networks for autonomous driving. 
 >Different state of the art architectures were used to benchmark against NVIDIA's end-to-end 
 >architecture in terms model complexity & accuracy.
-***
+
 
 #### Deep Attention based Character Recognition using Spatial Transformers Nets
 ```html
