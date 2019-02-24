@@ -11,15 +11,21 @@ Beside my passion for robotics, I spend my time in photography and making music.
 *Here are some of my graduate projects and unpublished manuscripts*
 
 #### Deep Electromyogram Gesture Recognition                                  
-                                                                                          *Python, sklearn, TensorFlow, MATLAB*
+*Python, sklearn, TensorFlow, MATLAB*
 
->Performed real time gesture recognition of EMG signal data using Deep Neural Nets and Support Vector Machine. The EMG time series data >was subjected to several preprocessing and filtering techniques such as the application of FFT, Wavelet Transforms. Some bespoke data >augmentation techniques such as data rolling were also applied. The resulting system gesture recognition system was able to achieve 95% >test accuracy.
+>Performed real time gesture recognition of EMG signal data using Deep Neural Nets and Support Vector Machine. 
+>The EMG time series data was subjected to several preprocessing and filtering techniques such as the application of FFT, 
+>Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. 
+>The resulting system gesture recognition system was able to achieve 95% test accuracy.
 
 
-#### Deep Electromyogram Gesture Recognition                                  
-                                                                                          *Python, sklearn, TensorFlow, MATLAB*
+#### Indoor Navigation Ackerman Robot                                  
+*Ubuntu Core, ROS, Python, C++*
 
->Performed real time gesture recognition of EMG signal data using Deep Neural Nets and Support Vector Machine. The EMG time series data >was subjected to several preprocessing and filtering techniques such as the application of FFT, Wavelet Transforms. Some bespoke data >augmentation techniques such as data rolling were also applied. The resulting system gesture recognition system was able to achieve 95% >test accuracy.
+>An autonomous ackermann steering robot was designed and implemented using a 1:10 RC car chassis, Arduino Mega,
+>Raspberry PI, 2D LiDAR, 9 DoF IMU \& an ESC. 2D mapping was done by using gmapping \& hector mapping.
+>Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
+>adaptive trajectory controller. Odometry was achieved by fusing LiDAR \& IMU data using EKF. 
 
 <!--
 ```markdown
