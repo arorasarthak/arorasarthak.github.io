@@ -10,7 +10,7 @@ Besides my passion for Robotics, I spend my time in photography [:camera:](https
 
 *Here are some of my graduate projects and unpublished manuscripts:*
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0"></iframe>
 
 #### Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
