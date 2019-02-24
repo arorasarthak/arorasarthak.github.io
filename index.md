@@ -10,9 +10,10 @@ Beside my passion for robotics, I spend my time in photography and making music.
 
 *Here are some of my graduate projects and unpublished manuscripts*
 
-#### Deep Electromyogram Gesture Recognition                                  ##### {Python, sklearn, TensorFlow, MATLAB}
+#### Deep Electromyogram Gesture Recognition                                  
+##### {Python, sklearn, TensorFlow, MATLAB}
 
-Performed real time gesture recognition of EMG signal data using Deep Neural Nets and Support Vector Machine. The EMG time series data was subjected to several preprocessing and filtering techniques such as the application of FFT, Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. The resulting system gesture recognition system was able to achieve 95% test accuracy.
+>Performed real time gesture recognition of EMG signal data using Deep Neural Nets and Support Vector Machine. The EMG time series data >was subjected to several preprocessing and filtering techniques such as the application of FFT, Wavelet Transforms. Some bespoke data >augmentation techniques such as data rolling were also applied. The resulting system gesture recognition system was able to achieve 95% >test accuracy.
 
 <!--
 ```markdown
