@@ -8,9 +8,10 @@ graduate research in Human Robot Interaction and assisting other graduate and un
 
 Besides my passion for Robotics, I spend my time in photography [:camera:](https://www.instagram.com/acrossthedelta/) and making music [:musical_note:](https://soundcloud.com/auralrush).
 
-*Here are some of my graduate Projects and unpublished manuscripts:*
+*Here are some of my graduate projects and unpublished manuscripts:*
 
- {% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
 #### Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
