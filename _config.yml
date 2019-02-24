@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Sarthak Arora
-description: <a href ="https://www.instagram.com/acrossthedelta/">📷</a> <a href ="https://soundcloud.com/auralrush">🎵</a> 
+description: <a href ="https://www.instagram.com/acrossthedelta/"><img border="0" alt="instagram" src="instagram-symbol.png" width="32" height="32"></a> <a href ="https://soundcloud.com/auralrush">🎵</a> 
  
 logo: disp.jpg
 plugins:
