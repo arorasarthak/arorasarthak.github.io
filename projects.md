@@ -14,7 +14,7 @@ The resulting system gesture recognition system was able to achieve 95% test acc
 
 ### Indoor Navigation Ackerman Robot
 ```markdown
-##### Ubuntu Core, ROS, Python, C++
+**Ubuntu Core, ROS, Python, C++**
 ```
 An autonomous ackermann steering robot was designed and implemented using a 1:10 RC car chassis, Arduino Mega,
 Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmapping & hector mapping.
