@@ -20,8 +20,10 @@ Python, sklearn, TensorFlow, MATLAB
 >The resulting system gesture recognition system was able to achieve 95% test accuracy.
 
 
-#### Indoor Navigation Ackerman Robot                                  
+#### Indoor Navigation Ackerman Robot
+```html
 Ubuntu Core, ROS, Python, C++
+```
 >An autonomous ackermann steering robot was designed and implemented using a 1:10 RC car chassis, Arduino Mega,
 >Raspberry PI, 2D LiDAR, 9 DoF IMU \& an ESC. 2D mapping was done by using gmapping \& hector mapping.
 >Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
