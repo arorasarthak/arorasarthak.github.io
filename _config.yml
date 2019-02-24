@@ -4,7 +4,6 @@ description: Projects Page
 
 <a href="{{ page.description }}">
     <h2>{{ page.title }}</h2>
-    <p>{{ page.date | date_to_string }}</p>
 </a>
   
 logo: disp.jpg
