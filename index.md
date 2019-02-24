@@ -1,4 +1,5 @@
 ## About Me
+[Link to another page](./projects.html).
 
 #### Hi there!
 
