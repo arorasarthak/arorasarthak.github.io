@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: Sarthak Arora
 description: Projects Page
 logo: disp.jpg
+plugins:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
