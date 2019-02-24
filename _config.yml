@@ -10,3 +10,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-youtube
+  
+github:
+  is_project_page: false
