@@ -1,20 +1,17 @@
-## Projects
+## Hi there!
 
-Hi there! Welcome to my projects page.
+Welcome to my projects page.
 
-I am Graduate Student employed as a Teaching Assistant at the Kate Gleason College of Engineering @ RIT. 
+I am a Graduate Student employed as a Teaching Assistant at the Kate Gleason College of Engineering @ RIT. 
 My major is Electrical Engineering with a specialization in Robotics. Most my time is spent working on my
 graduate thesis in Human Robot Interaction and assisting other graduate and undergraduate students in Robotics.
 
-Besides my passion for Robotics, I spend my doing landscape photography and making music.
+Besides my passion for Robotics, I spend my time in [photography](https://www.instagram.com/acrossthedelta/) and [making music](https://soundcloud.com/auralrush).
 
 
-Here are some of my Graduate Projects and Unpublished Manuscripts:
+##### Here are some of my Graduate Projects and Unpublished Manuscripts:
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
