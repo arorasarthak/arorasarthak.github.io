@@ -19,7 +19,7 @@ Beside my passion for robotics, I spend my time in photography and making music.
 
 
 #### Indoor Navigation Ackerman Robot                                  
-*Ubuntu Core, ROS, Python, C++*
+<Ubuntu Core, ROS, Python, C++>
 >An autonomous ackermann steering robot was designed and implemented using a 1:10 RC car chassis, Arduino Mega,
 >Raspberry PI, 2D LiDAR, 9 DoF IMU \& an ESC. 2D mapping was done by using gmapping \& hector mapping.
 >Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
