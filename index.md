@@ -10,7 +10,7 @@ Besides my passion for Robotics, I spend my time in photography [:camera:](https
 
 *Here are some of my graduate Projects and unpublished manuscripts:*
 
-
+ {% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
 #### Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
