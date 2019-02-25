@@ -1,8 +1,5 @@
 ## About Me
 
-```markdown
-<i class="fab fa-github"></i>
-```
 #### Hi there!
 
 I am a Graduate Student employed as a Teaching Assistant at [KGCOE, RIT](https://www.rit.edu/kgcoe/). 
