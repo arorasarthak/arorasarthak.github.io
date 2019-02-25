@@ -1,6 +1,6 @@
 ## About Me
 
-```html
+```markdown
 <i class="fab fa-github"></i>
 ```
 #### Hi there!
