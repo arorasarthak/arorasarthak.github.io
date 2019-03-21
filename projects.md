@@ -25,14 +25,30 @@ adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data
 
 &nbsp;
 
-### Steering Angle Prediction using Deep Imitation Learning
+### Indoor Navigation Ackerman Robot
 ```markdown
-Python, TensorFlow, Keras
+Ubuntu Core, ROS, Python, C++
 ```
-Designed a steering angle control system using convolutional neural networks for autonomous driving. 
-Different state of the art architectures were used to benchmark against NVIDIA's end-to-end 
-architecture in terms model complexity & accuracy.
+An autonomous ackermann steering robot was designed and implemented using a 1:10 RC car chassis, Arduino Mega,
+Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmapping & hector mapping.
+Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
+adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF.
 
+[Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
+
+&nbsp;
+
+
+### North Following Autonomous Differential Drive
+```markdown
+Arduino, C++
+```
+A differential drive wheel base was used to implement vector field histogram. A time-of-flight sensor was panned
+to achieve all the distances in field-of-view. The odometry was achieved with an IMU and encoders. Ultimately,
+a camera was used for target/goal recognition. The robot would drive towards north direction and stop at a red
+colored target.
+
+[Video](https://www.youtube.com/watch?v=jdVLMRE6gJY)
 
 &nbsp;
 
