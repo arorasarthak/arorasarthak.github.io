@@ -13,3 +13,9 @@ plugins:
   - jekyll-feed
   - jekyll-youtube
 theme: jekyll-theme-minimal
+fonts:
+ primary: Roboto Slab
+ secondary: Helvetica
+body {
+  font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Arial,sans-serif;
+}
