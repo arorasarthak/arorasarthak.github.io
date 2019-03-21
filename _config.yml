@@ -1,6 +1,10 @@
 title: Sarthak Arora
 description:  <a href ="mailto:sa9472@rit.edu"><img border="0" alt="mail" src="envelope-solid.svg" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://www.instagram.com/acrossthedelta/"><img border="0" alt="instagram" src="instagram-brands.svg" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://soundcloud.com/auralrush"><img border="0" alt="soundcloud" src="soundcloud-brands.svg" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://www.linkedin.com/in/sarthaksarora"><img border="0" alt="linkedin" src="linkedin-brands.svg" width="16" height="16"></a> &nbsp;&nbsp; <a href ="https://github.com/arorasarthak"><img border="0" alt="github" src="github-brands.svg" width="16" height="16"></a>
 logo: disp.jpg
+fonts:
+ primary: Roboto Slab
+ secondary: Helvetica
+
 github:
   repository_url: http://example.com
   is_project_page: false
@@ -13,9 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-youtube
 theme: jekyll-theme-minimal
-fonts:
- primary: Roboto Slab
- secondary: Helvetica
+
 body {
   font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Arial,sans-serif;
 }
