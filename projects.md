@@ -8,20 +8,7 @@ Performed real time gesture recognition of EMG signal data using Deep Neural Net
 The EMG time series data was subjected to several preprocessing and filtering techniques such as the application of FFT, 
 Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. 
 The resulting system gesture recognition system was able to achieve 95% test accuracy.
-
-
-&nbsp;
-
-### Indoor Navigation Ackerman Robot
-```markdown
-Ubuntu Core, ROS, Python, C++
-```
-An autonomous ackermann steering robot was designed and implemented using a 1:10 RC car chassis, Arduino Mega,
-Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmapping & hector mapping.
-Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
-adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF.
-
-[Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
+___
 
 &nbsp;
 
@@ -35,7 +22,20 @@ Localization was achieved using adaptive monte carlo localization. Path planning
 adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF.
 
 [Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
+___
+&nbsp;
 
+### Indoor Navigation Ackerman Robot
+```markdown
+Ubuntu Core, ROS, Python, C++
+```
+An autonomous ackermann steering robot was designed and implemented using a 1:10 RC car chassis, Arduino Mega,
+Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmapping & hector mapping.
+Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
+adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF.
+
+[Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
+___
 &nbsp;
 
 
@@ -49,7 +49,7 @@ a camera was used for target/goal recognition. The robot would drive towards nor
 colored target.
 
 [Video](https://www.youtube.com/watch?v=jdVLMRE6gJY)
-
+___
 &nbsp;
 
 ### Deep Attention based Character Recognition using Spatial Transformers Nets
@@ -60,7 +60,7 @@ Compared the performance of 2D Convolutional Layers vs. Spatial Transformer Laye
 A new approach was proposed to perform character recognition on script characters from the Indian subcontinent. 
 The resulting system achieved a test accuracy of 98% by beating the previous state of the art method.
 
-
+___
 &nbsp;
 
 ### Exploration of Autocorrelation and Power Spectral Characteristics of a Low-Pass Random Process
@@ -70,3 +70,4 @@ MATLAB
 An exploratory data analysis project was done as a part of graduate coursework in Random Signals and Noise.
 
 [Report](https://drive.google.com/open?id=1Qw-WtVVEkUPZthruNtmrdPY4QebIL1b6)
+___
