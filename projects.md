@@ -8,10 +8,10 @@ Performed real time gesture recognition of EMG signal data using Deep Neural Net
 The EMG time series data was subjected to several preprocessing and filtering techniques such as the application of FFT, 
 Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. 
 The resulting system gesture recognition system was able to achieve 95% test accuracy.
-___
+
 
 &nbsp;
-
+___
 ### Indoor Navigation Ackerman Robot
 ```markdown
 Ubuntu Core, ROS, Python, C++
