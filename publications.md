@@ -1,5 +1,5 @@
 ## My Publications
-___
+
 #### Speed and Separation Monitoring using on-robot Time--of--Flight laser--ranging sensor arrays 
 (Under Review @[CASE 2019](https://www.ieee-ras.org/component/rseventspro/event/1488-case-2019-international-conference-on-automation-science-and-engineering))
 #### Authors: _Shitij Kumar, [Sarthak Arora](http://arorasarthak.github.io), Ferat Sahin_
