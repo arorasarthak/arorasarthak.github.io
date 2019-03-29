@@ -16,3 +16,15 @@ This setup is used to compare the safety,performance and productivity of various
 SSM safety configurations based on minimum distance between human and robot calculated using 
 on-robot Time-of-Flight sensors, motion capture and a 2D scanning lidar.
 
+
+#### HRC-SoS: Human Robot Collaboration Experimentation Platform as System of Systems
+(Under Review at @[SoSE 2019](http://sosengineering.org/2019/))
+#### Authors_Celal Savur, Shitij Kumar, [Sarthak Arora](http://arorasarthak.github.io), Tuly Hazbar, Ferat Sahin_
+#### Abstract:
+In this paper, an experimentation platform for human robot collaboration as a system of systems is presented. 
+A conceptual framework describing the aspects of Human Robot Collaboration is proposed. 
+These aspects are Awareness, Intelligence and Compliance of the system. Based on this framework 
+case studies describing experiment setups performed using this platform are discussed. Each experiment 
+highlights the use of the subsystems such as the digital twin, motion capture system, human-physiological 
+data collection system and robot control and interface systems. A subsystem with the ability to 
+monitor human physiological feedback during a human robot collaboration task is highlighted in detail.
