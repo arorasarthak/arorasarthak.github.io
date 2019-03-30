@@ -20,20 +20,6 @@ Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmappin
 Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
 adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF.
 
-[Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
-&nbsp;
-&nbsp;
-
-
-### Indoor Navigation Ackerman Robot
-```markdown
-Ubuntu Core, ROS, Python, C++
-```
-An autonomous ackermann steering robot was designed and implemented using a 1:10 RC car chassis, Arduino Mega,
-Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmapping & hector mapping.
-Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
-adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF.
-
 [Report](https://drive.google.com/open?id=1VRlRwUEt1IOqurRjTZPI8RPevrMzf5Pv)   [Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
 &nbsp;
 &nbsp;
@@ -51,7 +37,6 @@ colored target.
 &nbsp;
 &nbsp;
 
-
 ### Deep Attention based Character Recognition using Spatial Transformers Nets
 ```markdown
 Python, TensorFlow
@@ -63,7 +48,6 @@ The resulting system achieved a test accuracy of 98% by beating the previous sta
 [Report](https://drive.google.com/open?id=1pcSsBqHPw3vPDB9H07hbWmwNF7Svtf0q)
 &nbsp;
 &nbsp;
-
 
 ### Exploration of Autocorrelation and Power Spectral Characteristics of a Low-Pass Random Process
 ```markdown
