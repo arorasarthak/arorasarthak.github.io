@@ -18,7 +18,7 @@ on-robot Time-of-Flight sensors, motion capture and a 2D scanning lidar.
 
 ___
 #### HRC-SoS: Human Robot Collaboration Experimentation Platform as System of Systems
-(Under Review at @[SoSE 2019](http://sosengineering.org/2019/))
+(Accepted at @[SoSE 2019](http://sosengineering.org/2019/))
 #### Authors: _Celal Savur, Shitij Kumar, [Sarthak Arora](http://arorasarthak.github.io), Tuly Hazbar, Ferat Sahin_
 #### Abstract:
 In this paper, an experimentation platform for human robot collaboration as a system of systems is presented. 
