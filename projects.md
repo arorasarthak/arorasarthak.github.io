@@ -34,7 +34,7 @@ Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmappin
 Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
 adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF.
 
-[Report](https://drive.google.com/open?id=1VRlRwUEt1IOqurRjTZPI8RPevrMzf5Pv) [Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
+[Report](https://drive.google.com/open?id=1VRlRwUEt1IOqurRjTZPI8RPevrMzf5Pv)   [Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
 &nbsp;
 &nbsp;
 
@@ -47,7 +47,7 @@ to achieve all the distances in field-of-view. The odometry was achieved with an
 a camera was used for target/goal recognition. The robot would drive towards north direction and stop at a red
 colored target.
 
-[Report](https://drive.google.com/open?id=1iirYKXWcU3Hmw-NRIQIR0--KPjniWaK9) [Video](https://www.youtube.com/watch?v=jdVLMRE6gJY)
+[Report](https://drive.google.com/open?id=1iirYKXWcU3Hmw-NRIQIR0--KPjniWaK9)    [Video](https://www.youtube.com/watch?v=jdVLMRE6gJY)
 &nbsp;
 &nbsp;
 
