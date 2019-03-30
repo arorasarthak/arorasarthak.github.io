@@ -5,6 +5,7 @@ github:
   repository_url: http://example.com
   is_project_page: false
   is_user_page: True
+  show_downloads: True
 plugins:
   - jekyll-mentions
   - jemoji
