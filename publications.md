@@ -1,7 +1,7 @@
 ## My Publications
 
 #### Speed and Separation Monitoring using on-robot Time--of--Flight laser--ranging sensor arrays 
-(Under Review @[CASE 2019](https://www.ieee-ras.org/component/rseventspro/event/1488-case-2019-international-conference-on-automation-science-and-engineering))
+(Accepted @[CASE 2019](https://www.ieee-ras.org/component/rseventspro/event/1488-case-2019-international-conference-on-automation-science-and-engineering))
 #### Authors: _Shitij Kumar, [Sarthak Arora](http://arorasarthak.github.io), Ferat Sahin_
 #### Abstract:
 In this paper, a speed and separation monitoring (SSM) based safety controller using three 
