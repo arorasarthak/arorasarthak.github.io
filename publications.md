@@ -9,6 +9,7 @@ This work presents the development of a perception pipeline to passively track t
 
 [Video](https://www.youtube.com/watch?v=fxHwCIYJh8I)
 [Manuscript](https://scholarworks.rit.edu/theses/10334/)
+
 ___
 #### Speed and Separation Monitoring using on-robot Time--of--Flight laser--ranging sensor arrays 
 (Accepted @[CASE 2019](https://www.ieee-ras.org/component/rseventspro/event/1488-case-2019-international-conference-on-automation-science-and-engineering))
@@ -28,7 +29,8 @@ on-robot Time-of-Flight sensors, motion capture and a 2D scanning lidar.
 
 [Video](https://drive.google.com/file/d/1H0YYTa3T4sKMlo6Z8qRDGqej5qlB1fwS/view?usp=sharing)
 [Paper](https://doi.org/10.1109/COASE.2019.8843326)
-___
+
+______
 #### HRC-SoS: Human Robot Collaboration Experimentation Platform as System of Systems
 (Accepted at @[SoSE 2019](http://sosengineering.org/2019/))
 #### Authors: _Celal Savur, Shitij Kumar, [Sarthak Arora](http://arorasarthak.github.io), Tuly Hazbar, Ferat Sahin_
