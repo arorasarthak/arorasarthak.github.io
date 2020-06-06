@@ -16,6 +16,7 @@ This setup is used to compare the safety,performance and productivity of various
 SSM safety configurations based on minimum distance between human and robot calculated using 
 on-robot Time-of-Flight sensors, motion capture and a 2D scanning lidar.
 
+[Video](https://drive.google.com/file/d/1H0YYTa3T4sKMlo6Z8qRDGqej5qlB1fwS/view?usp=sharing)
 ___
 #### HRC-SoS: Human Robot Collaboration Experimentation Platform as System of Systems
 (Accepted at @[SoSE 2019](http://sosengineering.org/2019/))
