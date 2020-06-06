@@ -8,9 +8,9 @@ Performed real time gesture recognition of EMG signal data using Deep Neural Net
 The EMG time series data was subjected to several preprocessing and filtering techniques such as the application of FFT, 
 Wavelet Transforms. Some bespoke data augmentation techniques such as data rolling were also applied. 
 The resulting system gesture recognition system was able to achieve 95% test accuracy.
-&nbsp;
-&nbsp;
 ______
+&nbsp;
+&nbsp;
 
 ### Indoor Navigation Ackerman Robot
 ```markdown
@@ -22,9 +22,10 @@ Localization was achieved using adaptive monte carlo localization. Path planning
 adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF.
 
 [Report](https://drive.google.com/open?id=1VRlRwUEt1IOqurRjTZPI8RPevrMzf5Pv)   [Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
-&nbsp;
-&nbsp;
 ______
+&nbsp;
+&nbsp;
+
 
 ### North Following Autonomous Differential Drive
 ```markdown
@@ -36,9 +37,10 @@ a camera was used for target/goal recognition. The robot would drive towards nor
 colored target.
 
 [Report](https://drive.google.com/open?id=1iirYKXWcU3Hmw-NRIQIR0--KPjniWaK9)    [Video](https://www.youtube.com/watch?v=jdVLMRE6gJY)
-&nbsp;
-&nbsp;
 ______
+&nbsp;
+&nbsp;
+
 
 ### Deep Attention based Character Recognition using Spatial Transformers Nets
 ```markdown
@@ -49,9 +51,10 @@ A new approach was proposed to perform character recognition on script character
 The resulting system achieved a test accuracy of 98% by beating the previous state of the art method.
 
 [Report](https://drive.google.com/open?id=1pcSsBqHPw3vPDB9H07hbWmwNF7Svtf0q)
-&nbsp;
-&nbsp;
 ______
+&nbsp;
+&nbsp;
+
 
 ### Exploration of Autocorrelation and Power Spectral Characteristics of a Low-Pass Random Process
 ```markdown
