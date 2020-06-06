@@ -10,6 +10,7 @@ Wavelet Transforms. Some bespoke data augmentation techniques such as data rolli
 The resulting system gesture recognition system was able to achieve 95% test accuracy.
 &nbsp;
 &nbsp;
+______
 
 ### Indoor Navigation Ackerman Robot
 ```markdown
@@ -23,6 +24,7 @@ adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data
 [Report](https://drive.google.com/open?id=1VRlRwUEt1IOqurRjTZPI8RPevrMzf5Pv)   [Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
 &nbsp;
 &nbsp;
+______
 
 ### North Following Autonomous Differential Drive
 ```markdown
@@ -36,6 +38,7 @@ colored target.
 [Report](https://drive.google.com/open?id=1iirYKXWcU3Hmw-NRIQIR0--KPjniWaK9)    [Video](https://www.youtube.com/watch?v=jdVLMRE6gJY)
 &nbsp;
 &nbsp;
+______
 
 ### Deep Attention based Character Recognition using Spatial Transformers Nets
 ```markdown
@@ -48,6 +51,7 @@ The resulting system achieved a test accuracy of 98% by beating the previous sta
 [Report](https://drive.google.com/open?id=1pcSsBqHPw3vPDB9H07hbWmwNF7Svtf0q)
 &nbsp;
 &nbsp;
+______
 
 ### Exploration of Autocorrelation and Power Spectral Characteristics of a Low-Pass Random Process
 ```markdown
