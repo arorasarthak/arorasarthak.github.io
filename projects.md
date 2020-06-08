@@ -80,6 +80,7 @@ simulation inside CoppeliaSim/VREP like Gazebo.
 [![Video](https://img.youtube.com/vi/SrnnDEN5O3I/0.jpg)](https://youtu.be/SrnnDEN5O3I "Video")
 
 Click on the image to watch the video!
+
 ______
 &nbsp;
 &nbsp;
