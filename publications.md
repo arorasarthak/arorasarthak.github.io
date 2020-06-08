@@ -7,8 +7,11 @@
 #### Abstract:
 This work presents the development of a perception pipeline to passively track the partial human ground pose in the context of human robot collaboration. The main motivation behind this work is to provide a speed and separation monitoring based safety controller with an estimate of human position on the factory floor. Three time-of-flight sensing rings affixed to the major links of an industrial manipulator are used to implement the aforementioned. Along with a convolutional neural network based unknown obstacle detection strategy, the ground position of the human operator is estimated and tracked using sparse 3-D point inputs. Experiments to analyze the viability of our approach are presented in depth in the further sections which involve real-world and synthetic datasets. Ultimately, it is shown that the sensing system can provide reliable information intermittently and can be used for higher level perception schemes.
 
-[Video](https://www.youtube.com/watch?v=fxHwCIYJh8I)
 [Manuscript](https://scholarworks.rit.edu/theses/10334/)
+
+[![Video](https://img.youtube.com/vi/fxHwCIYJh8I/0.jpg)](https://www.youtube.com/watch?v=fxHwCIYJh8I "Video")
+
+Click on the image to watch the video!
 
 ___
 #### Speed and Separation Monitoring using on-robot Time--of--Flight laser--ranging sensor arrays 
@@ -27,8 +30,12 @@ This setup is used to compare the safety,performance and productivity of various
 SSM safety configurations based on minimum distance between human and robot calculated using 
 on-robot Time-of-Flight sensors, motion capture and a 2D scanning lidar.
 
-[Video](https://drive.google.com/file/d/1H0YYTa3T4sKMlo6Z8qRDGqej5qlB1fwS/view?usp=sharing)
 [Paper](https://doi.org/10.1109/COASE.2019.8843326)
+
+[![Video](https://img.youtube.com/vi/EQTV55jODb8/0.jpg)](https://www.youtube.com/watch?v=EQTV55jODb8 "Video")
+
+Click on the image to watch the video!
+
 
 ______
 #### HRC-SoS: Human Robot Collaboration Experimentation Platform as System of Systems
