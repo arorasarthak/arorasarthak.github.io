@@ -22,7 +22,11 @@ Raspberry PI, 2D LiDAR, 9 DoF IMU & an ESC. 2D mapping was done by using gmappin
 Localization was achieved using adaptive monte carlo localization. Path planning was implemented using an
 adaptive trajectory controller. Odometry was achieved by fusing LiDAR & IMU data using EKF.
 
-[Report](https://drive.google.com/open?id=1VRlRwUEt1IOqurRjTZPI8RPevrMzf5Pv)   [Video](https://drive.google.com/open?id=1a6H54wzrnHYUlIO4O2Qargi1D8rjwzhT)
+[Report](https://drive.google.com/open?id=1VRlRwUEt1IOqurRjTZPI8RPevrMzf5Pv)
+
+[![Video](https://img.youtube.com/vi/AJJj-5kTbgY/0.jpg)](https://www.youtube.com/watch?v=AJJj-5kTbgY "Video")
+
+Click on the image to watch the video!
 
 ______
 &nbsp;
@@ -41,6 +45,7 @@ The robot would drive towards north direction and stop at a red colored target.
 [Report](https://drive.google.com/open?id=1iirYKXWcU3Hmw-NRIQIR0--KPjniWaK9)    
 
 [![Video](https://img.youtube.com/vi/jdVLMRE6gJY/0.jpg)](https://www.youtube.com/watch?v=jdVLMRE6gJY "Video")
+
 Click on the image to watch the video!
 
 ______
@@ -73,6 +78,7 @@ programmed using the URScript programming language, allowing the user to setup a
 simulation inside CoppeliaSim/VREP like Gazebo.
 
 [![Video](https://img.youtube.com/vi/SrnnDEN5O3I/0.jpg)](https://youtu.be/SrnnDEN5O3I "Video")
+
 Click on the image to watch the video!
 ______
 &nbsp;
