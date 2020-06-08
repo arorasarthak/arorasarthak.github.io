@@ -1,4 +1,4 @@
-## My Projects
+## Projects
 
 ### Deep Electromyogram Gesture Recognition                                  
 ```markdown
