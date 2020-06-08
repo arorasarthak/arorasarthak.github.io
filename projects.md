@@ -33,10 +33,10 @@ ______
 ```markdown
 Arduino, C++
 ```
-A differential drive wheel base was used to implement vector field histogram. A time-of-flight sensor was panned
-to achieve all the distances in field-of-view. The odometry was achieved with an IMU and encoders. Ultimately,
-a camera was used for target/goal recognition. The robot would drive towards north direction and stop at a red
-colored target.
+A differential drive wheel base was used to implement vector field histograms as a local planner along 
+with a magnetometer. A time-of-flight sensor was panned to achieve all the distances in field-of-view. 
+The odometry was achieved with an IMU and encoders. Ultimately, a camera was used for target/goal recognition. 
+The robot would drive towards north direction and stop at a red colored target.
 
 [Report](https://drive.google.com/open?id=1iirYKXWcU3Hmw-NRIQIR0--KPjniWaK9)    [Video](https://www.youtube.com/watch?v=jdVLMRE6gJY)
 
@@ -54,6 +54,20 @@ A new approach was proposed to perform character recognition on script character
 The resulting system achieved a test accuracy of 98% by beating the previous state of the art method.
 
 [Report](https://drive.google.com/open?id=1pcSsBqHPw3vPDB9H07hbWmwNF7Svtf0q)
+
+______
+&nbsp;
+&nbsp;
+
+
+### Plugin Development for CoppeliaSim/VREP for creating low latency digital twin setup for Universal Robots
+```markdown
+C++, Lua
+```
+A plugin for CoppeliaSim/VREP was developed to directly interact with Universal Robots hardware over their custom 
+protocol called Real Time Data Exchange (RTDE). The [RTDE interface developed at SDU was used](https://sdurobotics.gitlab.io/ur_rtde) to develop this plugin. The plugin works using a Lua frontend.
+
+[Video](https://drive.google.com/file/d/1vNEups3H97r-w7G0231qXYRAV9E61uwM/view?usp=sharing)
 
 ______
 &nbsp;
