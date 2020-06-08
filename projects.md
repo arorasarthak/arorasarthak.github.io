@@ -65,7 +65,9 @@ ______
 C++, Lua
 ```
 A plugin for CoppeliaSim/VREP was developed to directly interact with Universal Robots hardware over their custom 
-protocol called Real Time Data Exchange (RTDE). The [RTDE interface developed at SDU was used](https://sdurobotics.gitlab.io/ur_rtde) to develop this plugin. The plugin works using a Lua frontend.
+protocol called Real Time Data Exchange (RTDE). The [RTDE interface developed at SDU was used](https://sdurobotics.gitlab.io/ur_rtde) to develop this plugin. The plugin works using a Lua frontend. The robot is 
+programmed using the URScript programming language, allowing the user to setup a Simulation-in-Loop scenario or create a 
+simulation inside CoppeliaSim/VREP like Gazebo.
 
 [Video](https://drive.google.com/file/d/1vNEups3H97r-w7G0231qXYRAV9E61uwM/view?usp=sharing)
 
