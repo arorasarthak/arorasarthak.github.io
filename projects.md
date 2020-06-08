@@ -38,7 +38,10 @@ with a magnetometer. A time-of-flight sensor was panned to achieve all the dista
 The odometry was achieved with an IMU and encoders. Ultimately, a camera was used for target/goal recognition. 
 The robot would drive towards north direction and stop at a red colored target.
 
-[Report](https://drive.google.com/open?id=1iirYKXWcU3Hmw-NRIQIR0--KPjniWaK9)    [Video](https://www.youtube.com/watch?v=jdVLMRE6gJY)
+[Report](https://drive.google.com/open?id=1iirYKXWcU3Hmw-NRIQIR0--KPjniWaK9)    
+
+[![Video](https://img.youtube.com/vi/jdVLMRE6gJY/0.jpg)](https://www.youtube.com/watch?v=jdVLMRE6gJY "Video")
+Click on the image to watch the video!
 
 ______
 &nbsp;
@@ -70,7 +73,7 @@ programmed using the URScript programming language, allowing the user to setup a
 simulation inside CoppeliaSim/VREP like Gazebo.
 
 [![Video](https://img.youtube.com/vi/SrnnDEN5O3I/0.jpg)](https://youtu.be/SrnnDEN5O3I "Video")
-
+Click on the image to watch the video!
 ______
 &nbsp;
 &nbsp;
