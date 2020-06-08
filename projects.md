@@ -69,7 +69,7 @@ protocol called Real Time Data Exchange (RTDE). The [RTDE interface developed at
 programmed using the URScript programming language, allowing the user to setup a Simulation-in-Loop scenario or create a 
 simulation inside CoppeliaSim/VREP like Gazebo.
 
-[Video](https://drive.google.com/file/d/1vNEups3H97r-w7G0231qXYRAV9E61uwM/view?usp=sharing)
+[Video](https://youtu.be/SrnnDEN5O3I)
 
 ______
 &nbsp;
