@@ -1,4 +1,4 @@
-## My Publications
+## Publications
 
 #### Perception Methods For Speed And Separation Monitoring Using Time-of-Flight Sensor Arrays 
 ([Masters Thesis](https://scholarworks.rit.edu/theses/10334/))
